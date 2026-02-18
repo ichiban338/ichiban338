@@ -145,14 +145,6 @@ Soluciones AI construidas sobre una base sólida de datos limpios y análisis ri
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ichiban338&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichiban338&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
----
 
 ## 🌟 Actualmente Trabajando En
 
